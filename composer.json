@@ -1,7 +1,10 @@
 {
     "name": "megaads/email-subscriber",
-    "description": "Email subscriber form",
+    "description": "Show popup, form subscribe email",
     "license": "MIT",
+    "classmap": [
+        "src"
+    ],
     "autoload": {
         "psr-4": {
             "Megaads\\EmailSubscriber\\": "src/"
